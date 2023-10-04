@@ -9,11 +9,11 @@
         </Frame>
 
         <Entry Keyboard="Numeric"
-               Placeholder="Ingrese un numero"
+               Placeholder="Ingrese un número"
                VerticalOptions="Start" x:Name="num1"/>
 
         <Entry Keyboard="Numeric"
-               Placeholder="Ingrese un numero"
+               Placeholder="Ingrese un número"
                VerticalOptions="Start" x:Name="num2"/>
         
         <StackLayout Spacing="5">
@@ -23,7 +23,7 @@
 
             <Button x:Name="btnmulti" Margin="4" Text="Multiplicar" Clicked="btnmulti_Clicked" />
 
-            <Button x:Name="btnDivi" Margin="4" Text="Division" Clicked="btnDivi_Clicked" />
+            <Button x:Name="btnDivi" Margin="4" Text="Dividir" Clicked="btnDivi_Clicked" />
 
         </StackLayout>
         
