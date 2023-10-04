@@ -19,7 +19,7 @@
         <StackLayout Spacing="5">
             <Button x:Name="btnsuma" Margin="4" Text="Sumar" Clicked="btnsuma_Clicked" />
 
-            <Button x:Name="btnresta" Margin="4" Text="restar" Clicked="btnresta_Clicked" />
+            <Button x:Name="btnresta" Margin="4" Text="Restar" Clicked="btnresta_Clicked" />
 
             <Button x:Name="btnmulti" Margin="4" Text="Multiplicar" Clicked="btnmulti_Clicked" />
 
